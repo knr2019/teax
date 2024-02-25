@@ -1,2 +1,0 @@
-# teax
-stfu
